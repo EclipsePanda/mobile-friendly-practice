@@ -1,6 +1,16 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
 div {
     height: 100px;
     width: 100px;
-    background-color: black;
+    background-color: #000000;
     display: inline-block;
+}
+h1 {
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    font-size: 30px;
 }
