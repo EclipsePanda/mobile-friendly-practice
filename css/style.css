@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+h1 {
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    font-size: 30px;
+}
+div {
+    margin: 20px 90px
+}
+.box-1 {
+    text-align: left;
+}
+.box-2 {
+    text-align: right;
+}
